@@ -1,0 +1,6 @@
+.env
+/env/
+__pycache__
+misc/socks5.txt
+*.zip
+logs
